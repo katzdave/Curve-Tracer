@@ -1,0 +1,18 @@
+c:\users\david katz\documents\visual studio 2012\Projects\CurveTracer\CurveTracer\bin\Debug\CurveTracer.exe.config
+c:\users\david katz\documents\visual studio 2012\Projects\CurveTracer\CurveTracer\bin\Debug\CurveTracer.exe
+c:\users\david katz\documents\visual studio 2012\Projects\CurveTracer\CurveTracer\bin\Debug\CurveTracer.pdb
+c:\users\david katz\documents\visual studio 2012\Projects\CurveTracer\CurveTracer\obj\Debug\CurveTracer.csprojResolveAssemblyReference.cache
+c:\users\david katz\documents\visual studio 2012\Projects\CurveTracer\CurveTracer\obj\Debug\CurveTracer.Form1.resources
+c:\users\david katz\documents\visual studio 2012\Projects\CurveTracer\CurveTracer\obj\Debug\CurveTracer.Properties.Resources.resources
+c:\users\david katz\documents\visual studio 2012\Projects\CurveTracer\CurveTracer\obj\Debug\CurveTracer.csproj.GenerateResource.Cache
+c:\users\david katz\documents\visual studio 2012\Projects\CurveTracer\CurveTracer\obj\Debug\CurveTracer.exe
+c:\users\david katz\documents\visual studio 2012\Projects\CurveTracer\CurveTracer\obj\Debug\CurveTracer.pdb
+C:\Users\David Katz\Dropbox\curvetrace\CurveTracer\CurveTracer\bin\Debug\CurveTracer.exe.config
+C:\Users\David Katz\Dropbox\curvetrace\CurveTracer\CurveTracer\obj\Debug\CurveTracer.exe
+C:\Users\David Katz\Dropbox\curvetrace\CurveTracer\CurveTracer\obj\Debug\CurveTracer.pdb
+C:\Users\David Katz\Dropbox\curvetrace\CurveTracer\CurveTracer\bin\Debug\CurveTracer.exe
+C:\Users\David Katz\Dropbox\curvetrace\CurveTracer\CurveTracer\bin\Debug\CurveTracer.pdb
+C:\Users\David Katz\Dropbox\curvetrace\CurveTracer\CurveTracer\obj\Debug\CurveTracer.csprojResolveAssemblyReference.cache
+C:\Users\David Katz\Dropbox\curvetrace\CurveTracer\CurveTracer\obj\Debug\CurveTracer.Form1.resources
+C:\Users\David Katz\Dropbox\curvetrace\CurveTracer\CurveTracer\obj\Debug\CurveTracer.Properties.Resources.resources
+C:\Users\David Katz\Dropbox\curvetrace\CurveTracer\CurveTracer\obj\Debug\CurveTracer.csproj.GenerateResource.Cache
